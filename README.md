@@ -10,7 +10,7 @@ Passionné par le développement web et les architectures logicielles, je travai
 - Mise en place de bases de données optimisées (MySQL, PostgreSQL)  
 - Architecture MVC et bonnes pratiques du code  
 - Intégration de systèmes d'authentification sécurisés  
-- Expérience avec **JavaScript**, **Vue.js** et **Bootstrap** pour le front-end  
+- Expérience avec **JavaScript**, **React.js** et **TailwindCss** pour le front-end  
 
 ## 📌 Projets & Expériences  
 
